@@ -3,7 +3,7 @@ import { __SYD, __c , __sC , __p, __g, __u} from "../../sydneyLib/sydneyDom.js";
 const images = [
     ['h1_1.jpg' , 'h1_2.jpg' , 'h1_3.webp' , 'h1_4.webp'],
     ['h2_1.jpg' , 'h2_2.jpg' , 'h2_3.jpg' , 'h2_4.jpg'],
-    ['h3_1.jpg' , 'h3_2.JPEG' , 'h3_3.jpg' , 'h3_4.jpg'],
+    ['h3_1.jpg' , 'h3_2.jpeg' , 'h3_3.jpg' , 'h3_4.jpg'],
 ]
 
 const data = [
